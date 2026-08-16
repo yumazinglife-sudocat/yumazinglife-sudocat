@@ -23,12 +23,12 @@ GITHUB PROFILE README — QUICK CUSTOMIZATION
 ===============================================================================
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B2FFF,100:FF2E63&amp;height=230&amp;section=header&amp;text=Yuma%20Suzuki&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Full-Stack%20Engineer%20%E2%80%A2%208%2B%20Years%20of%20Building%20Useful%20Things&amp;descAlignY=57&amp;descSize=18" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B2FFF,100:FF2E63&amp;height=230&amp;section=header&amp;text=YOUR%20NAME&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%2B%20Full-Stack%20Engineer%20%E2%80%A2%208%2B%20Years%20of%20Building%20Useful%20Things&amp;descAlignY=57&amp;descSize=18" alt="Profile header" />
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=7B2FFF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=AI+%26+Full-Stack+Engineer;8%2B+Years+of+Production+Experience;Building+LLM%2C+RAG+%26+Agentic+Systems;Turning+Coffee+Into+Reliable+Software;My+Code+Works...+After+the+Tests+Agree"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=7B2FFF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=AI+%2B+Full-Stack+Engineer;8%2B+Years+of+Production+Experience;Building+LLM%2C+RAG+%2B+Agentic+Systems;Turning+Coffee+Into+Reliable+Software;My+Code+Works...+After+the+Tests+Agree"
       alt="Animated introduction"
     />
   </a>
@@ -41,7 +41,7 @@ GITHUB PROFILE README — QUICK CUSTOMIZATION
   <a href="mailto:yumazinglife@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-  <a href="https://yumazinglife-sudocat.com">
+  <a href="https://yumzinglife.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -62,7 +62,7 @@ I enjoy turning ambiguous ideas into reliable software—from **LLM applications
 ```typescript
 const developer = {
   name: "Yuma Suzuki",
-  location: "Tokyo, Japan",
+  location: "Toky, Japan",
   title: "AI & Full-Stack Engineer",
   experience: "8+ years",
   focus: [
