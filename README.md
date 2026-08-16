@@ -23,7 +23,7 @@ GITHUB PROFILE README — QUICK CUSTOMIZATION
 ===============================================================================
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B2FFF,100:FF2E63&amp;height=230&amp;section=header&amp;text=YOUR%20NAME&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%2B%20Full-Stack%20Engineer%20%E2%80%A2%208%2B%20Years%20of%20Building%20Useful%20Things&amp;descAlignY=57&amp;descSize=18" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:7B2FFF,100:FF2E63&amp;height=230&amp;section=header&amp;text=Yuma%20Suzuki&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Full-Stack%20Engineer%20%E2%80%A2%208%2B%20Years%20of%20Building%20Useful%20Things&amp;descAlignY=57&amp;descSize=18" alt="Profile header" />
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
